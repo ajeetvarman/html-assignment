@@ -1,0 +1,38 @@
+#include<iostream>
+using namespace std;
+int main(){
+cout<<"physics"<<endl;
+cout<<"wallah";
+}
+
+
+#include<iostream>
+using namespace std;
+int main(){
+cout<<5+5;
+}
+
+
+int - 4
+bool - 1
+float - 4
+
+
+6 4 
+
+01PWskills
+_FLOAT
+FLOAT
+
+
+
+#include<iostream>
+using namespace std;
+int main(){
+    int radious = 10;
+    float pi = 3.1415;
+    float area = 2*pi*radious;
+    cout<<area;
+}
+
+outot is 62.83
